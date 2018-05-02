@@ -1,0 +1,2 @@
+# buildprop
+Stock build.prop
